@@ -40,5 +40,19 @@
 		"pic":"Surtees.jpg",
 		"description":"John Surtees is the only driver to have won world championships both on bikes and in cars. He claimed the title in Formula 1 in 1964 for Ferrari and the constructors.",
  		"career":"His motorcycle chapmionship wins came before his 1960 F1 debut at Monaco with Lotus. He moved to Cooper before Ferrari in 1963 where he started to find success. He won the championship in 1964 but a crash at Mosport in 1965 spoilt his chances. He created his own team that was competitive for 9 years that won races and a championship in 1980 with Alan Jones."
+	},
+	{
+		"name":"Niki Lauda",
+	    "seasons_ferrari":"1971-1979, 1982-1985",
+	    "seasons":"1974-1977",
+	    "wins_ferrari":"15",
+	    "wins":"25",
+	    "poles_ferrari":"23",
+	    "poles":"24",
+	    "races_ferrari":"57",
+	    "races":"174",
+		"pic":"Lauda.jpg",
+		"description":"Niki Lauda was one of the few drivers that had a successful comeback in Formula 1. He won 3 championships, 2 of which were in the 70s and the last was when he returned to the sport in the 80s.",
+ 		"career":"He joined Formula 1 in 1971 with March and moved to BRM for 1973. He joined Ferrari in 1974 and became a race winner and world champion the following year. While fighting James Hunt for the title he crashed horribly at the Nurburgring, he was pulled from the burning wreckage and suffered severe burns to his face and lungs. Incredibly, he survived and returned to the track just 6 weeks later but missed out on th title by one point after withdrawing from the last race in Fuji due to the atrocious conditions. He won his second title the next year before leaving Ferrari for Brabham but the 3 years he spent with them were difficult and he retired. However, in 1982 brought him back to drive for McLaren and in 1984 he beat his teamate, Alain Prost, to the title by half a point. After leaving Formula 1, he returned to the business of running the airline he had set up in the late 70s. He returned to Formula 1 in a managerial capacity with Ferrari in the early 90s and then at Jaguar in 2002. He later became a part of Mercedes' management team and played a key role in helping the team and Lewis Hamilton secure there championships."
 	}
 ]
