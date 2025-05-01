@@ -54,5 +54,19 @@
 		"pic":"Lauda.jpg",
 		"description":"Niki Lauda was one of the few drivers that had a successful comeback in Formula 1. He won 3 championships, 2 of which were in the 70s and the last was when he returned to the sport in the 80s.",
  		"career":"He joined Formula 1 in 1971 with March and moved to BRM for 1973. He joined Ferrari in 1974 and became a race winner and world champion the following year. While fighting James Hunt for the title he crashed horribly at the Nurburgring, he was pulled from the burning wreckage and suffered severe burns to his face and lungs. Incredibly, he survived and returned to the track just 6 weeks later but missed out on th title by one point after withdrawing from the last race in Fuji due to the atrocious conditions. He won his second title the next year before leaving Ferrari for Brabham but the 3 years he spent with them were difficult and he retired. However, in 1982 brought him back to drive for McLaren and in 1984 he beat his teamate, Alain Prost, to the title by half a point. After leaving Formula 1, he returned to the business of running the airline he had set up in the late 70s. He returned to Formula 1 in a managerial capacity with Ferrari in the early 90s and then at Jaguar in 2002. He later became a part of Mercedes' management team and played a key role in helping the team and Lewis Hamilton secure there championships."
+	},
+	{
+	"name":"Fernando Alonso",
+	    "seasons_ferrari":"2010-2014",
+	    "seasons":"2001-present",
+	    "wins_ferrari":"10",
+	    "wins":"32",
+	    "poles_ferrari":"4",
+	    "poles":"22",
+	    "races_ferrari":"97",
+	    "races":"406",
+		"pic":"Alonso.jpg",
+		"description":"Fernando Alonso is a 2 time world champion and holds the record for the most race starts. He has been in the sport for over 20 years and had competed in a thirds of the races ever held in Formula 1.",
+ 		"career":"He started Formula 1 in 2001 with Minardi but moved to Benetton the following year as a test driver and was promoted to Renault for 2003 he won the championship in 2005 and 2006 for Renault before moving to McLaren for 2007. There were issues in McLaren that lead to neither driver winning that season so he returned to Renault in 2008. Nothing happened in Renault so he moved to Ferrari for the 2010 season. He fought for the championship for the next 4 seasons but was beaten by Sebastian Vettel everytime. 2014 didn't go well so he moved back to McLaren but it didn't get any better and he subsequently retired from Formula 1 at the end of the 2018 season. However, he returned to Formula 1 in 2021 to race for Alpine (formerly Renault) and moved to Aston Martin in 2023 and comtinues to drive for them today."
 	}
 ]
