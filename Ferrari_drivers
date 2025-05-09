@@ -1,0 +1,72 @@
+[
+	{
+	    "name":"Michael Schumacher",
+	    "seasons_ferrari":"1996-2006",
+	    "seasons":"1991-2006, 2010-2012",
+	    "wins_ferrari":"72",
+	    "wins":"91",
+	    "poles_ferrari":"58",
+	    "poles":"68",
+	    "races_ferrari":"180",
+	    "races":"308",
+		"pic":"Schumacher.jpg",
+		"description":"Michael Schumacher is one of the greatest drivers of all time. He won 7 world championships, 5 of which were with Ferrari and he helped the team win 6 of its 16 constructor championships.",
+ 		"career":"He made his Formula 1 debut in 1991 for Jordan but moved to Benetton for the rest of the season. He went on to win the title in 1994 and 1995 for Benetton before switching to Ferrari for 1996. He didn't win a championship with Ferrari for 5 years but had a few mear-misses on the way battling with Jacques Villeneuve and Mika Hakkinen. He dominated the sport for the next 5 years, making history. His last year at Ferrari was more difficult with a new rival, Fernando Alonso beating him to the title. He spent a few years away from the sport before returning in 2010 to drive for Mercedes however the three year lead to little success and he was consequently replaced by Lewis Hamilton for the 2013 season. Unfortunaly, at the end of his first year in retirement, he fell while skiing in France and suffered serious head injuries. He survived but since the accident there has been little information about his condition from his family."
+	},
+	{
+	    "name":"Alberto Ascari",
+	    "seasons_ferrari":"1950-1954",
+	    "seasons":"1950-1955",
+	    "wins_ferrari":"13",
+	    "wins":"13",
+	    "poles_ferrari":"13",
+	    "poles":"14",
+	    "races_ferrari":"27",
+	    "races":"32",
+		"pic":"Ascari2.jpg",
+		"description":"Alberto Ascari was one of the first stars of the sport, competing in the first 5 seasons. He won 2 titles in a row with Ferrari and is the only Italian Ferrari driver to win with them.",
+ 		"career":"He drove for Ferrari from 1950 to 1953, winning the title in 1952 and 1953. Between the Belgium Grands Prix of 1952 and 1953 he won every race (apart from the Indy 500 which he didn't contest) meaning he won 9 Grand Prix in a row. He intended to drive for Lancia in 1954 but as his new car was delayed he made a series of appearances for Ferrari ans Maserati nut failed to score any points. In 1955 he had a lucky escape when he crashed into the Monaco harbour but 5 days later when he was testing a Ferrari sportscar forthe Supercortemaggiore race, he crashed and died. This happened at Monza and the corner is now named after him."
+	},
+	{
+	    "name":"John Surtees",
+	    "seasons_ferrari":"1963-1964",
+	    "seasons":"1960-1972",
+	    "wins_ferrari":"4",
+	    "wins":"6",
+	    "poles_ferrari":"4",
+	    "poles":"8",
+	    "races_ferrari":"30",
+	    "races":"112",
+		"pic":"Surtees.jpg",
+		"description":"John Surtees is the only driver to have won world championships both on bikes and in cars. He claimed the title in Formula 1 in 1964 for Ferrari and the constructors.",
+ 		"career":"His motorcycle chapmionship wins came before his 1960 F1 debut at Monaco with Lotus. He moved to Cooper before Ferrari in 1963 where he started to find success. He won the championship in 1964 but a crash at Mosport in 1965 spoilt his chances. He created his own team that was competitive for 9 years that won races and a championship in 1980 with Alan Jones."
+	},
+	{
+		"name":"Niki Lauda",
+	    "seasons_ferrari":"1971-1979, 1982-1985",
+	    "seasons":"1974-1977",
+	    "wins_ferrari":"15",
+	    "wins":"25",
+	    "poles_ferrari":"23",
+	    "poles":"24",
+	    "races_ferrari":"57",
+	    "races":"174",
+		"pic":"Lauda.jpg",
+		"description":"Niki Lauda was one of the few drivers that had a successful comeback in Formula 1. He won 3 championships, 2 of which were in the 70s and the last was when he returned to the sport in the 80s.",
+ 		"career":"He joined Formula 1 in 1971 with March and moved to BRM for 1973. He joined Ferrari in 1974 and became a race winner and world champion the following year. While fighting James Hunt for the title he crashed horribly at the Nurburgring, he was pulled from the burning wreckage and suffered severe burns to his face and lungs. Incredibly, he survived and returned to the track just 6 weeks later but missed out on th title by one point after withdrawing from the last race in Fuji due to the atrocious conditions. He won his second title the next year before leaving Ferrari for Brabham but the 3 years he spent with them were difficult and he retired. However, in 1982 brought him back to drive for McLaren and in 1984 he beat his teamate, Alain Prost, to the title by half a point. After leaving Formula 1, he returned to the business of running the airline he had set up in the late 70s. He returned to Formula 1 in a managerial capacity with Ferrari in the early 90s and then at Jaguar in 2002. He later became a part of Mercedes' management team and played a key role in helping the team and Lewis Hamilton secure there championships."
+	},
+	{
+	"name":"Fernando Alonso",
+	    "seasons_ferrari":"2010-2014",
+	    "seasons":"2001-present",
+	    "wins_ferrari":"10",
+	    "wins":"32",
+	    "poles_ferrari":"4",
+	    "poles":"22",
+	    "races_ferrari":"97",
+	    "races":"406",
+		"pic":"Alonso.jpg",
+		"description":"Fernando Alonso is a 2 time world champion and holds the record for the most race starts. He has been in the sport for over 20 years and had competed in a thirds of the races ever held in Formula 1.",
+ 		"career":"He started Formula 1 in 2001 with Minardi but moved to Benetton the following year as a test driver and was promoted to Renault for 2003 he won the championship in 2005 and 2006 for Renault before moving to McLaren for 2007. There were issues in McLaren that lead to neither driver winning that season so he returned to Renault in 2008. Nothing happened in Renault so he moved to Ferrari for the 2010 season. He fought for the championship for the next 4 seasons but was beaten by Sebastian Vettel everytime. 2014 didn't go well so he moved back to McLaren but it didn't get any better and he subsequently retired from Formula 1 at the end of the 2018 season. However, he returned to Formula 1 in 2021 to race for Alpine (formerly Renault) and moved to Aston Martin in 2023 and comtinues to drive for them today."
+	}
+]
