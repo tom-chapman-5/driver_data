@@ -1,13 +1,13 @@
 [
 	{
 	    	"name":"Michael Schumacher",
-	    	"seasons_ferrari":"1996-2006",
+	    	"seasons_vcarb":"1996-2006",
 	    	"seasons":"1991-2006, 2010-2012",
-	    	"wins_ferrari":"72",
+	    	"wins_vcarb":"72",
 	   	"wins":"91",
-	    	"poles_ferrari":"58",
+	    	"poles_vcarb":"58",
 	    	"poles":"68",
-	    	"races_ferrari":"180",
+	    	"races_vcarb":"180",
 		"races":"308",
 		"pic":"Schumacher.jpg",
 		"description":"Michael Schumacher is one of the greatest drivers of all time. He won 7 world championships, 5 of which were with Ferrari and he helped the team win 6 of its 16 constructor championships.",
