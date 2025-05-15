@@ -152,5 +152,47 @@
 		"pic":"fangio.jpg",
 		"description":"Juan Manuel Fangio often hailed as one of the greatest drivers in Formula 1 history and competed in F1 from 1950 to 1958  and secured five WDC.",
  		"career":"He won the championships in 1951, 1954, 1955, 1956, 1957 driving for Alfa Romeo, Mercedes-Benz, Ferrari, and Maserati. He achieved this feat in just seven full seasons, missing one due to a near-fatal accident. His adaptability was unparalleled, winning titles with four different teams. One of his most iconic performances was at the 1957 German Grand Prix at the Nürburgring, where he overcame a 48-second deficit to clinch victory, securing his fifth and final title in dramatic fashion. After retiring from racing in 1958, Fangio remained an ambassador for the sport and later became a representative for Mercedes-Benz in Argentina. He passed away on July 17, 1995, leaving behind a legacy that continues to inspire generations of drivers."
+	},
+	{
+	    	"name":"Alain Prost",
+	    	"seasons_ferrari":"1990-1991",
+	    	"seasons":"1980-1991, 1993",
+	    	"wins_ferrari":"5",
+	   	"wins":"51",
+	    	"poles_ferrari":"0",
+	    	"poles":"33",
+	    	"races_ferrari":"29",
+		"races":"199",
+		"pic":"prost.jpg",
+		"description":"Alain Prost was renowned for his methodical and strategic approach to racing and was nicknamed 'The Professor' and secured 4 WDC.",
+ 		"career":"He competed for McLaren, Ferrari, and Williams, and was known for his consistency and racecraft, often focusing on maximizing points over raw speed. Prost's rivalry with Ayrton Senna is legendary, with the two drivers often finishing 1–2 in the championship standings during their careers . After retiring in 1993, Prost remained involved in motorsport, founding the Prost Grand Prix team and later serving in advisory roles with Renault and Alpine . His legacy endures as one of Formula 1's most cerebral and accomplished drivers."
+	},
+	{
+	    	"name":"Nigel Mansell",
+	    	"seasons_ferrari":"1989-1990",
+	    	"seasons":"1980-1992, 1994-1995",
+	    	"wins_ferrari":"3",
+	   	"wins":"31",
+	    	"poles_ferrari":"3",
+	    	"poles":"32",
+	    	"races_ferrari":"29",
+		"races":"187",
+		"pic":"mansell.jpg",
+		"description":"Nigel Mansell was celebrated for his tenacity and aggressive driving style and he won the WDC in 1992 for Williams.",
+ 		"career":"Mansell secured 31 Grand Prix victories and clinched the 1992 World Championship with Williams, where he dominated the season with nine wins and five pole positions. Notably, he remains the last driver to win an F1 race over the age of 40, achieving this feat at the 1994 Australian Grand Prix in Adelaide, his 31st and final career victory. Beyond F1, Mansell ventured into American open-wheel racing, winning the 1993 IndyCar World Series with Newman/Haas Racing, making him the only driver to hold both the Formula 1 World Championship and the American open-wheel National Championship simultaneously. His legacy endures as one of Britain's most accomplished and charismatic motorsport figures."
+	},
+	{
+	    	"name":"Phil Hill",
+	    	"seasons_ferrari":"1958-1962",
+	    	"seasons":"1958-1964, 1966",
+	    	"wins_ferrari":"3",
+	   	"wins":"3",
+	    	"poles_ferrari":"6",
+	    	"poles":"6",
+	    	"races_ferrari":"31",
+		"races":"52",
+		"pic":"hill.jpg",
+		"description":"Phil Hill was the first American-born driver to win the Formula 1 World Championship, achieving the title in 1961 with Ferrari.",
+ 		"career":"He began his racing career in the late 1950s and made his F1 debut in 1958. Hill secured three Grand Prix victories and 16 podiums during his F1 career. In addition to his F1 success, Hill was a three-time winner of the 24 Hours of Le Mans (1958, 1961, 1962) and the 12 Hours of Sebring (1958, 1959, 1961). He also won the 1964 Daytona Continental, completing the "Triple Crown" of endurance racing. Known for his thoughtful and introspective nature, Hill earned the nickname "Hamlet in a Helmet." After retiring from racing in 1967, he remained active in the motorsport community as a writer, commentator, and car restoration expert. Hill passed away in 2008 at the age of 81 in Monterey, California."
 	}
 ]
