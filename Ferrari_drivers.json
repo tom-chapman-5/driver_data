@@ -110,5 +110,47 @@
 		"pic":"kimi.jpg",
 		"description":"Kimi Raikkonen was champion in 2007 and has had one of the longest Formula 1 careers spanning 2 decades.",
  		"career":"He began his F1 career in 2001 with Sauber, quickly moving to McLaren, where he secured his first Grand Prix victory in 2003. In 2007, Räikkönen joined Ferrari and clinched the World Championship in a dramatic final race in Brazil, edging out Lewis Hamilton and Fernando Alonso by just one point. After a brief hiatus from F1 in 2010–2011, he returned with Lotus, achieving notable success, including a memorable victory at the 2013 Australian Grand Prix. Räikkönen concluded his F1 career with Alfa Romeo Racing, retiring after the 2021 season with a total of 21 Grand Prix wins and 103 podiums. His legacy is marked by his no-nonsense demeanor, exceptional driving talent, and a career spanning two decades at the pinnacle of motorsport."
+	},
+	{
+	    	"name":"Mike Hawthorn",
+	    	"seasons_ferrari":"1953-1958",
+	    	"seasons":"1952-1958",
+	    	"wins_ferrari":"3",
+	   	"wins":"3",
+	    	"poles_ferrari":"4",
+	    	"poles":"4",
+	    	"races_ferrari":"35",
+		"races":"46",
+		"pic":"hawthorn.jpg",
+		"description":"Mike Hawthorn was a Formula 1 driver in the 50s and won the title in 1958 for Ferrari.",
+ 		"career":"He began his racing career in 1952 and quickly gained attention for his skill and charisma. Notably, Hawthorn won the 1955 24 Hours of Le Mans with Jaguar, though the race was marred by a tragic accident that resulted in 83 spectator fatalities. In 1958, he clinched the World Championship by a single point over Stirling Moss, despite winning only one race that season. Shortly after his championship victory, Hawthorn announced his retirement from racing, deeply affected by the recent death of his teammate Peter Collins. Tragically, just three months later, he died in a road accident on January 22, 1959. In his honor, the RAC established the Hawthorn Memorial Trophy, awarded annually to the most successful British driver in Formula 1."
+	},
+	{
+	    	"name":"Gilles Villeneuve",
+	    	"seasons_ferrari":"1978-1982",
+	    	"seasons":"1978-1982",
+	    	"wins_ferrari":"6",
+	   	"wins":"6",
+	    	"poles_ferrari":"2",
+	    	"poles":"2",
+	    	"races_ferrari":"67",
+		"races":"67",
+		"pic":"gilles.jpg",
+		"description":"Gilles Villeneuve was a Formula 1 driver celebrated for his fearless and flamboyant driving style.",
+ 		"career":"He began his racing career in snowmobile competitions before transitioning to open-wheel racing, where he quickly made a name for himself. Joining Ferrari in 1977, Villeneuve secured six Grand Prix victories and finished as runner-up in the 1979 World Drivers' Championship. His aggressive driving earned him admiration and respect from fans and fellow drivers alike. Tragically, on May 8, 1982, Villeneuve lost his life during qualifying for the Belgian Grand Prix at Zolder, following a collision with Jochen Mass. He was 32 years old. In his honor, the Circuit Île Notre-Dame in Montreal was renamed Circuit Gilles Villeneuve. His son, Jacques Villeneuve, later became the first Canadian to win the Formula 1 World Championship."
+	},
+	{
+	    	"name":"Juan Manuel Fangio",
+	    	"seasons_ferrari":"1956",
+	    	"seasons":"1950-1958",
+	    	"wins_ferrari":"3",
+	   	"wins":"24",
+	    	"poles_ferrari":"6",
+	    	"poles":"29",
+	    	"races_ferrari":"7",
+		"races":"51",
+		"pic":"gilles.jpg",
+		"description":"Juan Manuel Fangio often hailed as one of the greatest drivers in Formula 1 history and competed in F1 from 1950 to 1958  and secured five WDC.",
+ 		"career":"He won the championships in 1951, 1954, 1955, 1956, 1957 driving for Alfa Romeo, Mercedes-Benz, Ferrari, and Maserati. He achieved this feat in just seven full seasons, missing one due to a near-fatal accident. His adaptability was unparalleled, winning titles with four different teams. One of his most iconic performances was at the 1957 German Grand Prix at the Nürburgring, where he overcame a 48-second deficit to clinch victory, securing his fifth and final title in dramatic fashion. After retiring from racing in 1958, Fangio remained an ambassador for the sport and later became a representative for Mercedes-Benz in Argentina. He passed away on July 17, 1995, leaving behind a legacy that continues to inspire generations of drivers."
 	}
 ]
