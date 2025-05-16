@@ -26,5 +26,19 @@
 		"pic":"estie.jpg",
 		"description":"Ocon's journey to F1 was marked by significant sacrifices; his parents sold their home and lived in a caravan to support his karting career.",
  		"career":"Ocon's breakthrough came in 2021 when he secured his first Formula 1 victory at the Hungarian Grand Prix, marking Alpine's first win since their return to the sport. He further demonstrated his skill with podium finishes at the 2020 Bahrain Grand Prix and the 2023 Monaco Grand Prix. In 2025, Ocon transitioned to Haas F1 Team, bringing his experience and determination to the team. His career reflects resilience and a relentless pursuit of excellence, overcoming early challenges to establish himself as a respected driver in Formula 1."
+	},
+	{
+		"name":"Fernando Alonso",
+	   	"seasons_alpine":"2021-2022",
+	    	"seasons":"2001-present",
+	    	"wins_alpine":"0",
+	    	"wins":"32",
+	    	"poles_alpine":"0",
+	    	"poles":"22",
+	    	"races_alpine":"45",
+	    	"races":"406",
+		"pic":"Alonso.jpg",
+		"description":"Fernando Alonso is a 2 time world champion and holds the record for the most race starts. He has been in the sport for over 20 years and had competed in a thirds of the races ever held in Formula 1.",
+ 		"career":"He started Formula 1 in 2001 with Minardi but moved to Benetton the following year as a test driver and was promoted to Renault for 2003 he won the championship in 2005 and 2006 for Renault before moving to McLaren for 2007. There were issues in McLaren that lead to neither driver winning that season so he returned to Renault in 2008. Nothing happened in Renault so he moved to Ferrari for the 2010 season. He fought for the championship for the next 4 seasons but was beaten by Sebastian Vettel everytime. 2014 didn't go well so he moved back to McLaren but it didn't get any better and he subsequently retired from Formula 1 at the end of the 2018 season. However, he returned to Formula 1 in 2021 to race for Alpine (formerly Renault) and moved to Aston Martin in 2023 and comtinues to drive for them today."
 	}
 ]
