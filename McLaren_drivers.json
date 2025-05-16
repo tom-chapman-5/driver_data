@@ -26,5 +26,19 @@
 		"pic":"senna.jpg",
 		"description":"Ayrton Senna is widely regarded as one of the greatest drivers in the sport's history due to his unique driving style and 3 championships.",
  		"career":"Senna began his F1 career in 1984 with Toleman, quickly showcasing his exceptional talent. He moved to Lotus in 1985, where he secured his first Grand Prix victory in 1985 at the Portuguese Grand Prix. Senna's most successful years came with McLaren, where he won three World Championships (1988, 1990, 1991) and achieved 41 Grand Prix victories and 65 pole positions over his 161-race career. He was known for his intense focus, speed, and determination, particularly in qualifying sessions. Tragically, Senna's life and career were cut short when he died in an accident during the 1994 San Marino Grand Prix at Imola, Italy. His death, along with that of fellow driver Roland Ratzenberger during the same weekend, led to significant reforms in F1 safety. Senna's legacy endures through his foundation, which supports education for underprivileged children in Brazil, and through the 2010 documentary Senna, which chronicles his life and career."
+	},
+	{
+	    	"name":"Lewis Hamilton",
+	    	"seasons_mclaren":"2007-2012",
+	    	"seasons":"2007-present",
+	    	"wins_mclaren":"21",
+	   	"wins":"105",
+	    	"poles_mclaren":"26",
+	    	"poles":"104",
+	    	"races_mclaren":"110",
+		"races":"363",
+		"pic":"lewis.jpg",
+		"description":"Lewis Hamilton is a British racing driver who competes in Formula One for Ferrari. He has won a joint-record seven Formula One World Drivers' Championship titles tied with Michael Schumacher and holds the records for most wins (105), pole positions (104), and podium finishes (202) in the sport's history.",
+ 		"career":"Hamilton began his F1 career with McLaren in 2007, finishing third in his debut season and narrowly missing the title in 2008. He joined Mercedes in 2013, where he achieved unprecedented success, securing six of his seven championships between 2014 and 2020. In 2025, Hamilton transitioned to Ferrari, replacing Carlos Sainz and partnering with Charles Leclerc. Off the track, Hamilton is a prominent advocate for diversity and inclusion in motorsport, founding the Hamilton Commission to promote racial equality. He was knighted in 2021 for his services to motorsport and continues to use his platform to champion social justice causes."
 	}
 ]
