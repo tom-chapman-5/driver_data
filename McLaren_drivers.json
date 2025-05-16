@@ -110,5 +110,61 @@
 		"pic":"mika.jpg",
 		"description":"Mika Häkkinen is a two-time Formula 1 World Champion renowned for his speed and composure.",
  		"career":"Nicknamed 'The Flying Finn' he began his F1 career in 1991 with Lotus before joining McLaren in 1993. Häkkinen clinched his first World Championship in 1998, defeating Michael Schumacher in a dramatic season. He successfully defended his title in 1999, solidifying his status among F1's elite. After a brief sabbatical in 2002, he returned to racing in the Deutsche Tourenwagen Masters (DTM) with Mercedes, securing three wins over three seasons before retiring in 2007. Post-retirement, Häkkinen has remained active in motorsport as a commentator, brand ambassador, and driver manager, mentoring talents like Valtteri Bottas and Nyck de Vries. His legacy endures as one of F1's most respected and accomplished drivers."
+	},
+	{
+	    	"name":"Alain Prost",
+	    	"seasons_mclaren":"1980, 1984-1989",
+	    	"seasons":"1980-1991, 1993",
+	    	"wins_mclaren":"30",
+	   	"wins":"51",
+	    	"poles_mclaren":"10",
+	    	"poles":"33",
+	    	"races_mclaren":"110",
+		"races":"199",
+		"pic":"prost.jpg",
+		"description":"Alain Prost was renowned for his methodical and strategic approach to racing and was nicknamed 'The Professor' and secured 4 WDC.",
+ 		"career":"He competed for McLaren, Ferrari, and Williams, and was known for his consistency and racecraft, often focusing on maximizing points over raw speed. Prost's rivalry with Ayrton Senna is legendary, with the two drivers often finishing 1–2 in the championship standings during their careers . After retiring in 1993, Prost remained involved in motorsport, founding the Prost Grand Prix team and later serving in advisory roles with Renault and Alpine . His legacy endures as one of Formula 1's most cerebral and accomplished drivers."
+	},
+	{
+	    	"name":"Bruce McLaren",
+	    	"seasons_mclaren":"1966-1970",
+	    	"seasons":"1958-1970",
+	    	"wins_mclaren":"1",
+	   	"wins":"4",
+	    	"poles_mclaren":"0",
+	    	"poles":"0",
+	    	"races_mclaren":"56",
+		"races":"104",
+		"pic":"mclaren.jpg",
+		"description":"Bruce McLaren was a pioneering New Zealand racing driver, engineer, and founder of McLaren Racing.",
+ 		"career":"He made his Formula 1 debut in 1958 with the Cooper team and secured his first Grand Prix victory in 1959 at the U.S. Grand Prix, becoming the youngest winner at that time. McLaren founded his own team, Bruce McLaren Motor Racing, in 1963, and achieved his first Formula 1 win as a team owner at the 1968 Belgian Grand Prix. Beyond F1, he won the 24 Hours of Le Mans in 1966 and dominated the Can-Am series in North America from 1967 to 1971. Tragically, McLaren died in a testing accident in 1970 at the age of 32. His legacy endures through McLaren Racing, which has become a cornerstone of motorsport excellence."
+	},
+	{
+	    	"name":"David Coulthard",
+	    	"seasons_mclaren":"1996-2004",
+	    	"seasons":"1994-2008",
+	    	"wins_mclaren":"13",
+	   	"wins":"13",
+	    	"poles_mclaren":"7",
+	    	"poles":"12",
+	    	"races_mclaren":"150",
+		"races":"247",
+		"pic":"dc.jpg",
+		"description":"David Coulthard is a retired Formula 1 driver renowned for his smooth driving style and consistent performances.",
+ 		"career":"He began his F1 career in 1994 with Williams, securing his first Grand Prix victory in 1995 at the Portuguese Grand Prix. In 1996, Coulthard joined McLaren, where he achieved 12 of his 13 career wins and finished as runner-up in the 2001 Drivers' Championship. After a stint with Red Bull Racing from 2005 to 2008, he retired from F1 with 62 podiums and 535 points. Post-retirement, Coulthard transitioned to broadcasting, serving as a commentator for BBC and Channel 4's F1 coverage. He also co-founded Whisper Films, a media production company, and has been involved in various business ventures. In 2019, he was elected President of the British Racing Drivers' Club, which owns and operates Silverstone Circuit. Additionally, Coulthard co-founded the More Than Equal initiative in 2022, aiming to create opportunities for women to race in Formula 1 during the modern era."
+	},
+	{
+	    	"name":"Jenson Button",
+	    	"seasons_mclaren":"2010-2017",
+	    	"seasons":"2000-2017",
+	    	"wins_mclaren":"8",
+	   	"wins":"15",
+	    	"poles_mclaren":"1",
+	    	"poles":"8",
+	    	"races_mclaren":"156",
+		"races":"309",
+		"pic":"yenson.jpg",
+		"description":"Jenson Button is a British racing driver who won the 2009 Formula 1 World Championship with Brawn GP.",
+ 		"career":"He began his F1 career in 2000 with Williams and achieved his first Grand Prix victory in 2006 at the Hungarian Grand Prix. In 2009, Button secured six wins in the first seven races, clinching the title in Brazil despite not winning further races that season. He continued with McLaren from 2010 to 2016, winning eight races and finishing as runner-up in the 2011 championship. After retiring from F1, Button competed in Super GT in Japan, winning the 2018 GT500 title. He also participated in the World Endurance Championship with Jota, making his debut at the 24 Hours of Le Mans in 2024. Button is involved in various business ventures, including founding the off-road racing team JBXE and launching a whisky brand, Coachbuilt. He also engages in charitable activities through The Jenson Button Trust and serves as a broadcaster for Sky Sports F1."
 	}
 ]
