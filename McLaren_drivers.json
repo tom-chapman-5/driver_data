@@ -12,5 +12,19 @@
 		"pic":"osc.jpg",
 		"description":"Oscar Piastri is a new talent in the sport who won 3 back-to-back championships in feeder series and in his third season is fighting for the title against his more experienced teamate.",
  		"career":"He moved from Australia when he was 15 to pursue karting. In his second year in Formula Renault Eurocup he claimed the title before winning FIA Formula 3 and Formula 2 the following years both in his rookie seasons. His entrance into Formula 1 was not simple thought despite his imprsive background; the year following his Formula 2 title, 2022, he was a reserve driver for Alpine. When Alonso left Alpine to join Aston Msrtin for 2023 the team announced that Piastri would be driving for them in 2023 without discussing it with him.</p><img src='falpine.jpg' width='40%'><p>However, he rejected their announcment 2 hours later on Twitter and it was later announced that he would replace Daniel Riccardo as McLaren for the 2023 season.</p><p>McLaren had a difficult start to the 2023 season with both cars consistently out of the points but with upgrades they worked their way up the grid to finish forth with Piastri even winning the Qatar sprint race before his teamate had won any race format and finishing nineth in the standings. 2024 was a lot better for the team and Piastri as he won 2 races; his maiden win in Hungary where he started P2 and in Baku where he also started P2. He also helped the team secure the WCC for the first time since 1998. The 2025 season didn't start well for the Aussie with a spin at the first race costing him P2 or possibly a win but since that moment he has been a force to be reckened with. He won the race in China from pole then a P3 in Japan followed by 3 wins in a row with only 1 from pole position. He is currently leading the championship and has beaten his more experienced teamate's total career wins and is the only multpile race winner this season so far."
+	},
+	{
+	    	"name":"Ayrton Senna",
+	    	"seasons_mclaren":"1988-1993",
+	    	"seasons":"1984-1994",
+	    	"wins_mclaren":"35",
+	   	"wins":"41",
+	    	"poles_mclaren":"46",
+	    	"poles":"65",
+	    	"races_mclaren":"96",
+		"races":"162",
+		"pic":"senna.jpg",
+		"description":"Ayrton Senna is widely regarded as one of the greatest drivers in the sport's history due to his unique driving style and 3 championships.",
+ 		"career":"Senna began his F1 career in 1984 with Toleman, quickly showcasing his exceptional talent. He moved to Lotus in 1985, where he secured his first Grand Prix victory in 1985 at the Portuguese Grand Prix. Senna's most successful years came with McLaren, where he won three World Championships (1988, 1990, 1991) and achieved 41 Grand Prix victories and 65 pole positions over his 161-race career. He was known for his intense focus, speed, and determination, particularly in qualifying sessions. Tragically, Senna's life and career were cut short when he died in an accident during the 1994 San Marino Grand Prix at Imola, Italy. His death, along with that of fellow driver Roland Ratzenberger during the same weekend, led to significant reforms in F1 safety. Senna's legacy endures through his foundation, which supports education for underprivileged children in Brazil, and through the 2010 documentary Senna, which chronicles his life and career."
 	}
 ]
