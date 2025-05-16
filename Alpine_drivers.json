@@ -1,16 +1,30 @@
 [
 	{
-	    	"name":"Michael Schumacher",
-	    	"seasons_alpine":"1996-2006",
-	    	"seasons":"1991-2006, 2010-2012",
-	    	"wins_alpine":"72",
-	   	"wins":"91",
-	    	"poles_alpine":"58",
-	    	"poles":"68",
-	    	"races_alpine":"180",
-		"races":"308",
-		"pic":"Schumacher.jpg",
-		"description":"Michael Schumacher is one of the greatest drivers of all time. He won 7 world championships, 5 of which were with Ferrari and he helped the team win 6 of its 16 constructor championships.",
- 		"career":"He made his Formula 1 debut in 1991 for Jordan but moved to Benetton for the rest of the season. He went on to win the title in 1994 and 1995 for Benetton before switching to Ferrari for 1996. He didn't win a championship with Ferrari for 5 years but had a few mear-misses on the way battling with Jacques Villeneuve and Mika Hakkinen. He dominated the sport for the next 5 years, making history. His last year at Ferrari was more difficult with a new rival, Fernando Alonso beating him to the title. He spent a few years away from the sport before returning in 2010 to drive for Mercedes however the three year lead to little success and he was consequently replaced by Lewis Hamilton for the 2013 season. Unfortunaly, at the end of his first year in retirement, he fell while skiing in France and suffered serious head injuries. He survived but since the accident there has been little information about his condition from his family."
+	    	"name":"Pierre Gasly",
+	    	"seasons_alpine":"2023-pesent",
+	    	"seasons":"2017-present",
+	    	"wins_alpine":"0",
+	   	"wins":"1",
+	    	"poles_alpine":"0",
+	    	"poles":"0",
+	    	"races_alpine":"53",
+		"races":"161",
+		"pic":"pierre.jpg",
+		"description":"Pierre Gasly is a French Formula 1 driver currently racing for the Alpine team, having joined them in 2023 after a successful tenure with AlphaTauri.",
+ 		"career":"Gasly began karting at age six and progressed through various junior single-seater categories, including Formula Renault Eurocup, GP2, and Super Formula, securing championships and vice-championships along the way. He made his F1 debut with Toro Rosso (now AlphaTauri) in 2017 and achieved his first Grand Prix victory at the 2020 Italian Grand Prix. In 2023, Gasly joined Alpine, partnering with fellow Frenchman Esteban Ocon. Throughout the 2023 season, Gasly demonstrated consistent performance, finishing 11th in the Drivers' Championship with 62 points and securing a podium finish at the Dutch Grand Prix. In June 2024, he extended his contract with Alpine until at least the end of 2026, now alongside rookie Jack Doohan following Ocon's departure. Off the track, Gasly has diversified his interests, becoming a co-owner of French football club FC Versailles, reflecting his passion for sports beyond motorsport."
+	},
+	{
+	    	"name":"Esteban Ocon",
+	    	"seasons_alpine":"2020-2024",
+	    	"seasons":"2016-present",
+	    	"wins_alpine":"1",
+	   	"wins":"1",
+	    	"poles_alpine":"0",
+	    	"poles":"0",
+	    	"races_alpine":"109",
+		"races":"163",
+		"pic":"estie.jpg",
+		"description":"Ocon's journey to F1 was marked by significant sacrifices; his parents sold their home and lived in a caravan to support his karting career.",
+ 		"career":"Ocon's breakthrough came in 2021 when he secured his first Formula 1 victory at the Hungarian Grand Prix, marking Alpine's first win since their return to the sport. He further demonstrated his skill with podium finishes at the 2020 Bahrain Grand Prix and the 2023 Monaco Grand Prix. In 2025, Ocon transitioned to Haas F1 Team, bringing his experience and determination to the team. His career reflects resilience and a relentless pursuit of excellence, overcoming early challenges to establish himself as a respected driver in Formula 1."
 	}
 ]
