@@ -236,5 +236,33 @@
 		"pic":"massa.jpg",
 		"description":"Felipe Massa raced from 2002 to 2017, primarily known for his time with Ferrari (2006–2013).",
  		"career":"After debuting with Sauber, he joined Ferrari and quickly became a race winner, serving as both a strong teammate to Michael Schumacher and later a title contender. His closest brush with the championship came in 2008, when he famously lost the title to Lewis Hamilton by just one point in a dramatic final-lap twist at the Brazilian Grand Prix. Massa won 11 races, scored 41 podiums, and earned a reputation for his speed, technical skill, and resilience—especially after a life-threatening head injury in 2009. He finished his F1 career with Williams before retiring in 2017, leaving behind a legacy as one of Brazil’s most respected drivers."
+	},
+	{
+	    	"name":"Peter Collins",
+	    	"seasons_ferrari":"1956-1958",
+	    	"seasons":"1952-1958",
+	    	"wins_ferrari":"3",
+	   	"wins":"3",
+	    	"poles_ferrari":"0",
+	    	"poles":"0",
+	    	"races_ferrari":"20",
+		"races":"35",
+		"pic":"collins.jpg",
+		"description":"Peter Collins was a British Formula 1 driver who drove thoughout the 1950s.",
+ 		"career":"He began his racing career in 1952 and competed in Formula 1 from 1952 to 1958, driving for teams such as HWM, Vanwall, Maserati, and Ferrari. Collins secured three Grand Prix victories—two in 1956 and one in 1958—and finished third in the 1956 World Drivers' Championship. He was also a two-time runner-up in the 24 Hours of Le Mans (1956 and 1957) and finished second in the Mille Miglia in 1956. Tragically, Collins died on August 3, 1958, from injuries sustained during the German Grand Prix at the Nürburgring, just weeks after winning the British Grand Prix. He was 26 years old at the time of his death."
+	},
+	{
+	    	"name":"Ayrton Senna",
+	    	"seasons_ferrari":"2006-2013",
+	    	"seasons":"1952-1958",
+	    	"wins_ferrari":"3",
+	   	"wins":"3",
+	    	"poles_ferrari":"0",
+	    	"poles":"0",
+	    	"races_ferrari":"20",
+		"races":"35",
+		"pic":"senna.jpg",
+		"description":"Ayrton Senna is widely regarded as one of the greatest drivers in the sport's history due to his unique driving style and 3 championships.",
+ 		"career":"Senna began his F1 career in 1984 with Toleman, quickly showcasing his exceptional talent. He moved to Lotus in 1985, where he secured his first Grand Prix victory in 1985 at the Portuguese Grand Prix. Senna's most successful years came with McLaren, where he won three World Championships (1988, 1990, 1991) and achieved 41 Grand Prix victories and 65 pole positions over his 161-race career. He was known for his intense focus, speed, and determination, particularly in qualifying sessions. Tragically, Senna's life and career were cut short when he died in an accident during the 1994 San Marino Grand Prix at Imola, Italy. His death, along with that of fellow driver Roland Ratzenberger during the same weekend, led to significant reforms in F1 safety. Senna's legacy endures through his foundation, which supports education for underprivileged children in Brazil, and through the 2010 documentary Senna, which chronicles his life and career."
 	}
 ]
