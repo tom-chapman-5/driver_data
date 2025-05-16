@@ -194,5 +194,47 @@
 		"pic":"hill.jpg",
 		"description":"Phil Hill was the first American-born driver to win the Formula 1 World Championship, achieving the title in 1961 with Ferrari.",
  		"career":"He began his racing career in the late 1950s and made his F1 debut in 1958. Hill secured three Grand Prix victories and 16 podiums during his F1 career. In addition to his F1 success, Hill was a three-time winner of the 24 Hours of Le Mans (1958, 1961, 1962) and the 12 Hours of Sebring (1958, 1959, 1961). He also won the 1964 Daytona Continental, completing the 'Triple Crown' of endurance racing. Known for his thoughtful and introspective nature, Hill earned the nickname 'Hamlet in a Helmet'. After retiring from racing in 1967, he remained active in the motorsport community as a writer, commentator, and car restoration expert. Hill passed away in 2008 at the age of 81 in Monterey, California."
+	},
+	{
+	    	"name":"Rubens Barrichello",
+	    	"seasons_ferrari":"2000-2005",
+	    	"seasons":"1993-2011",
+	    	"wins_ferrari":"9",
+	   	"wins":"11",
+	    	"poles_ferrari":"11",
+	    	"poles":14",
+	    	"races_ferrari":"104",
+		"races":"326",
+		"pic":"rubens.jpg",
+		"description":"Rubens Barrichello is a Brazilian racing driver best known for his long and consistent career in Formula 1.",
+ 		"career":"He competed from 1993 to 2011 with teams including Jordan, Stewart, Ferrari, Honda, Brawn GP, and Williams. As Michael Schumacher’s teammate at Ferrari (2000–2005), he played a key role in the team’s dominance, securing 11 wins and 68 podiums in total. He later contributed to Brawn GP’s remarkable 2009 championship season. With 322 Grand Prix starts, he was F1’s most experienced driver until surpassed by Kimi Räikkönen. After F1, he raced in IndyCar and won the Stock Car Brasil championship in 2014, earning respect for his skill, perseverance, and sportsmanship throughout his career."
+	},
+	{
+	    	"name":"Eddie Irvine",
+	    	"seasons_ferrari":"1996-1999",
+	    	"seasons":"1993-2002",
+	    	"wins_ferrari":"4",
+	   	"wins":"4",
+	    	"poles_ferrari":"0",
+	    	"poles":0",
+	    	"races_ferrari":"65",
+		"races":"148",
+		"pic":"irvine.jpg",
+		"description":"Known for his outspoken personality and solid driving skills, he was Michael Schumacher’s teammate at Ferrari from 1996 to 1999.",
+ 		"career":"Irvine came closest to winning the championship in 1999 when Schumacher was injured mid-season, and Ferrari backed Irvine’s title bid; he ultimately finished second in the standings behind Mika Häkkinen. Although he won four Grands Prix and earned 26 podiums, his post-Ferrari years at Jaguar were less successful, and he retired from F1 in 2002. He remains a colorful figure in F1 history, remembered for both his driving and his off-track charisma."
+	},
+	{
+	    	"name":"Felipe Massa",
+	    	"seasons_ferrari":"2006-2013",
+	    	"seasons":"2002, 2004-2017",
+	    	"wins_ferrari":"11",
+	   	"wins":"11",
+	    	"poles_ferrari":"15",
+	    	"poles":16",
+	    	"races_ferrari":"65",
+		"races":"272",
+		"pic":"massa.jpg",
+		"description":"Felipe Massa raced from 2002 to 2017, primarily known for his time with Ferrari (2006–2013).",
+ 		"career":"After debuting with Sauber, he joined Ferrari and quickly became a race winner, serving as both a strong teammate to Michael Schumacher and later a title contender. His closest brush with the championship came in 2008, when he famously lost the title to Lewis Hamilton by just one point in a dramatic final-lap twist at the Brazilian Grand Prix. Massa won 11 races, scored 41 podiums, and earned a reputation for his speed, technical skill, and resilience—especially after a life-threatening head injury in 2009. He finished his F1 career with Williams before retiring in 2017, leaving behind a legacy as one of Brazil’s most respected drivers."
 	}
 ]
