@@ -1,16 +1,45 @@
 [
 	{
-	    	"name":"Michael Schumacher",
-	    	"seasons_haas":"1996-2006",
-	    	"seasons":"1991-2006, 2010-2012",
-	    	"wins_haas":"72",
-	   	"wins":"91",
-	    	"poles_haas":"58",
-	    	"poles":"68",
-	    	"races_haas":"180",
-		"races":"308",
-		"pic":"Schumacher.jpg",
-		"description":"Michael Schumacher is one of the greatest drivers of all time. He won 7 world championships, 5 of which were with Ferrari and he helped the team win 6 of its 16 constructor championships.",
- 		"career":"He made his Formula 1 debut in 1991 for Jordan but moved to Benetton for the rest of the season. He went on to win the title in 1994 and 1995 for Benetton before switching to Ferrari for 1996. He didn't win a championship with Ferrari for 5 years but had a few mear-misses on the way battling with Jacques Villeneuve and Mika Hakkinen. He dominated the sport for the next 5 years, making history. His last year at Ferrari was more difficult with a new rival, Fernando Alonso beating him to the title. He spent a few years away from the sport before returning in 2010 to drive for Mercedes however the three year lead to little success and he was consequently replaced by Lewis Hamilton for the 2013 season. Unfortunaly, at the end of his first year in retirement, he fell while skiing in France and suffered serious head injuries. He survived but since the accident there has been little information about his condition from his family."
+	    	"name":"Mick Schumacher",
+	    	"seasons_haas":"2021-2022",
+	    	"seasons":"2021-2022",
+	    	"wins_haas":"0",
+	   	"wins":"0",
+	    	"poles_haas":"0",
+	    	"poles":"0",
+	    	"races_haas":"44",
+		"races":"44",
+		"pic":"mick.jpg",
+		"description":"Mick Schumacher is the son of 7-time Formula 1 World Champion Michael Schumacher.",
+ 		"career":"Mick began his racing career in karting and progressed through the junior single-seater ranks, capturing the 2018 FIA Formula 3 European Championship and the 2020 FIA Formula 2 Championship. He made his Formula 1 debut with Haas in 2021, driving alongside Nikita Mazepin. In 2022, he continued with Haas, partnering with Kevin Magnussen. However, at the end of 2022, he was replaced by Nico Hülkenberg for the 2023 season. Subsequently, Mick joined Mercedes as a reserve driver for the 2023 and 2024 seasons, contributing to simulator work and supporting race operations. Despite his efforts, he did not participate in any races during this period. In November 2023, Mick transitioned to endurance racing by joining Alpine's World Endurance Championship (WEC) team. He made his debut at the 2024 24 Hours of Le Mans, where he secured a podium finish with a third-place result. For the 2025 season, Mick remains with Alpine's Hypercar team, partnering with Frédéric Makowiecki and Jules Gounon in the #36 car. Mick's commitment to racing and his adaptability across different motorsport disciplines highlight his determination and skill. While his Formula 1 journey has been challenging, his recent achievements in endurance racing demonstrate his resilience and potential for future success."
+	},
+	{
+	    	"name":"Romain Grosjean",
+	    	"seasons_haas":"2009, 2012-2020",
+	    	"seasons":"2016-2020",
+	    	"wins_haas":"0",
+	   	"wins":"0",
+	    	"poles_haas":"0",
+	    	"poles":"0",
+	    	"races_haas":"100",
+		"races":"181",
+		"pic":"romain.jpg",
+		"description":"Romain Grosjean is a former Formula 1 driver who transitioned to IndyCar and endurance racing following a dramatic crash in the 2020 Bahrain Grand Prix.",
+ 		"career":"In F1, he competed for Renault, Lotus, and Haas from 2009 to 2020, earning 10 podiums across 179 races. The Bahrain incident, where he survived a fiery crash, led to his departure from F1, but he made a successful move to IndyCar in 2021 with Dale Coyne Racing. He later joined Andretti Autosport and Juncos Hollinger Racing, securing six podiums and five second-place finishes over four seasons. In 2025, Grosjean shifted to a reserve driver role with Prema Racing, supporting full-time drivers Callum Ilott and Robert Shwartzman. Beyond racing, he has been involved in endurance racing with Lamborghini and Iron Lynx, including a podium finish at the 2024 24 Hours of Le Mans. Grosjean has also embraced life in the United States, becoming an airplane pilot and balancing his passion for motorsport with family life."
+	},
+	{
+	    	"name":"Kevin Magnussen",
+	    	"seasons_haas":"2017-2020, 2022-2024",
+	    	"seasons":"2014-2020, 2022-2024",
+	    	"wins_haas":"0",
+	   	"wins":"0",
+	    	"poles_haas":"1",
+	    	"poles":"1",
+	    	"races_haas":"148",
+		"races":"187",
+		"pic":"kmag.jpg",
+		"description":"Kevin Magnussen is a racing driver with experience in Formula 1, IndyCar, and endurance racing.",
+ 		"career":"He began his F1 career in 2014 with McLaren, impressing with a second-place finish on his debut at the Australian Grand Prix. After a season with McLaren, he moved to Renault in 2016 and then joined Haas F1 Team in 2017. Magnussen achieved his best championship finish in 2018, placing ninth. He was dropped from Haas at the end of 2020 but returned to the team in 2022. In 2024, Magnussen left his race seat at Haas, with Esteban Ocon and Oliver Bearman joining the team for 2025. In 2021, he competed in the IMSA SportsCar Championship with Cadillac, securing a victory at the Detroit Grand Prix, and made a one-off appearance in IndyCar with Arrow McLaren. Magnussen also participated in the 24 Hours of Le Mans with High Class Racing. In 2025, he transitioned to endurance racing, joining BMW as a factory driver for their LMDh program in the FIA World Endurance Championship. Magnussen has expressed that IndyCar was "the one that got away" from his career, reflecting on missed opportunities in the series.
+"
 	}
 ]
