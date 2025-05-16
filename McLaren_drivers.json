@@ -54,5 +54,61 @@
 		"pic":"Lauda.jpg",
 		"description":"Niki Lauda was one of the few drivers that had a successful comeback in Formula 1. He won 3 championships, 2 of which were in the 70s and the last was when he returned to the sport in the 80s.",
  		"career":"He joined Formula 1 in 1971 with March and moved to BRM for 1973. He joined Ferrari in 1974 and became a race winner and world champion the following year. While fighting James Hunt for the title he crashed horribly at the Nurburgring, he was pulled from the burning wreckage and suffered severe burns to his face and lungs. Incredibly, he survived and returned to the track just 6 weeks later but missed out on th title by one point after withdrawing from the last race in Fuji due to the atrocious conditions. He won his second title the next year before leaving Ferrari for Brabham but the 3 years he spent with them were difficult and he retired. However, in 1982 brought him back to drive for McLaren and in 1984 he beat his teamate, Alain Prost, to the title by half a point. After leaving Formula 1, he returned to the business of running the airline he had set up in the late 70s. He returned to Formula 1 in a managerial capacity with Ferrari in the early 90s and then at Jaguar in 2002. He later became a part of Mercedes' management team and played a key role in helping the team and Lewis Hamilton secure there championships."
+	},
+	{
+		"name":"James Hunt",
+	    	"seasons_mclaren":"1976-1978",
+	    	"seasons":"1973-1979",
+	    	"wins_mclaren":"9",
+	    	"wins":"10",
+	    	"poles_mclaren":"14",
+	    	"poles":"14",
+	    	"races_mclaren":"49",
+	    	"races":"93",
+		"pic":"james.jpg",
+		"description":"James Hunt was a British Formula 1 driver renowned for his charismatic personality and dramatic 1976 World Championship win.",
+ 		"career":"After starting in touring cars and progressing through Formula Ford and Formula 3, Hunt joined Hesketh Racing in 1973, making his F1 debut and securing podiums in his rookie season. He achieved his first Grand Prix victory in 1975 at the Dutch Grand Prix. In 1976, Hunt joined McLaren and clinched the World Championship in a season marked by a fierce rivalry with Niki Lauda, who suffered life-threatening injuries mid-season but made a remarkable recovery. Hunt retired from F1 in 1979 and transitioned to a successful broadcasting career with the BBC, known for his candid commentary and dry wit. He passed away in 1993 at the age of 45."
+	},
+	{
+		"name":"Emmerson Fittipaldi",
+	    	"seasons_mclaren":"1974-1975",
+	    	"seasons":"1970-1980",
+	    	"wins_mclaren":"5",
+	    	"wins":"14",
+	    	"poles_mclaren":"2",
+	    	"poles":"6",
+	    	"races_mclaren":"29",
+	    	"races":"149",
+		"pic":"fittipaldi.jpg",
+		"description":"Emerson Fittipaldi is a legendary motorsport figure who achieved success in both Formula One and American open-wheel racing.",
+ 		"career":"He made his Formula One debut in 1970 with Team Lotus and quickly rose to prominence, securing his first Grand Prix victory at the 1970 United States Grand Prix. In 1972, Fittipaldi became the youngest Formula One World Champion at the time, driving for Lotus. He clinched his second World Championship in 1974 with McLaren. In 1976, he joined the Fittipaldi Automotive team, founded by his brother Wilson, marking a significant chapter in his career. After retiring from Formula One in 1980, Fittipaldi transitioned to the CART IndyCar Series, where he won the Indianapolis 500 twice, in 1989 and 1993, and secured the CART Championship in 1989. He retired from full-time racing in 1996 but has remained active in motorsports through various roles, including mentoring young drivers and promoting the sport in Brazil."
+	},
+	{
+		"name":"Lando Norris",
+	    	"seasons_mclaren":"2019-present",
+	    	"seasons":"2019-present",
+	    	"wins_mclaren":"5",
+	    	"wins":"5",
+	    	"poles_mclaren":"10",
+	    	"poles":"10",
+	    	"races_mclaren":"135",
+	    	"races":"135",
+		"pic":"lando.jpg",
+		"description":"Lando Norris is a British Formula 1 driver currently competing for McLaren.",
+ 		"career":"He began his motorsport journey in karting at the age of seven and quickly progressed through the junior single-seater ranks. In 2015, Norris won the MSA Formula Championship, followed by titles in the Toyota Racing Series, Formula Renault Eurocup, and Formula Renault NEC in 2016. He clinched the FIA Formula 3 European Championship in 2017 and finished as the runner-up in the 2018 FIA Formula 2 Championship. Norris made his F1 debut with McLaren in 2019, partnering with Carlos Sainz Jr. In 2020, he secured his first podium finish at the Austrian Grand Prix. The 2024 season marked a significant milestone in his career, as he achieved his first Grand Prix victory at the Miami Grand Prix and went on to win three more races, finishing second in the Drivers' Championship. In 2025, Norris continued his momentum, securing his first win of the season at the Australian Grand Prix. Known for his consistency, adaptability, and strong qualifying performances, Norris has established himself as one of the leading talents in Formula 1."
+	},
+	{
+		"name":"Mika Hakkinen",
+	    	"seasons_mclaren":"1993-2001",
+	    	"seasons":"1991-2001",
+	    	"wins_mclaren":"20",
+	    	"wins":"20",
+	    	"poles_mclaren":"26",
+	    	"poles":"26",
+	    	"races_mclaren":"133",
+	    	"races":"165",
+		"pic":"mika.jpg",
+		"description":"Mika Häkkinen is a two-time Formula 1 World Champion renowned for his speed and composure.",
+ 		"career":"Nicknamed 'The Flying Finn' he began his F1 career in 1991 with Lotus before joining McLaren in 1993. Häkkinen clinched his first World Championship in 1998, defeating Michael Schumacher in a dramatic season. He successfully defended his title in 1999, solidifying his status among F1's elite. After a brief sabbatical in 2002, he returned to racing in the Deutsche Tourenwagen Masters (DTM) with Mercedes, securing three wins over three seasons before retiring in 2007. Post-retirement, Häkkinen has remained active in motorsport as a commentator, brand ambassador, and driver manager, mentoring talents like Valtteri Bottas and Nyck de Vries. His legacy endures as one of F1's most respected and accomplished drivers."
 	}
 ]
