@@ -40,5 +40,33 @@
 		"pic":"massa.jpg",
 		"description":"Felipe Massa raced from 2002 to 2017, primarily known for his time with Ferrari (2006–2013).",
  		"career":"After debuting with Sauber, he joined Ferrari and quickly became a race winner, serving as both a strong teammate to Michael Schumacher and later a title contender. His closest brush with the championship came in 2008, when he famously lost the title to Lewis Hamilton by just one point in a dramatic final-lap twist at the Brazilian Grand Prix. Massa won 11 races, scored 41 podiums, and earned a reputation for his speed, technical skill, and resilience—especially after a life-threatening head injury in 2009. He finished his F1 career with Williams before retiring in 2017, leaving behind a legacy as one of Brazil’s most respected drivers."
+	},
+	{
+	    	"name":"George Russell",
+	    	"seasons_mercedes":"2019-2021",
+	    	"seasons":"2019-present",
+	    	"wins_mercedes":"0",
+	   	"wins":"3",
+	    	"poles_mercedes":"0",
+	    	"poles":"5",
+	    	"races_mercedes":"60",
+		"races":"135",
+		"pic":"russell.jpg",
+		"description":"George Russell is a British Formula 1 driver currently racing for Mercedes-AMG Petronas Formula One Team.",
+ 		"career":"He began his motorsport journey in karting at the age of seven and quickly progressed through the ranks, winning the BRDC Formula 4 Championship in 2014, the GP3 Series in 2017, and the FIA Formula 2 Championship in 2018. Russell made his F1 debut in 2019 with Williams, where he showcased his talent despite the team's challenges. In 2020, he substituted for Lewis Hamilton at the Sakhir Grand Prix, impressing everyone by nearly securing a win. Russell joined Mercedes in 2022, achieving his first Grand Prix victory at the São Paulo Grand Prix that same year. In 2024, he secured two wins, including the Las Vegas Grand Prix, and finished sixth in the Drivers' Championship. As of the 2025 season, Russell continues to lead Mercedes, partnering with rookie Kimi Antonelli following Hamilton's departure to Ferrari. Despite Mercedes facing challenges in race pace and tyre management, Russell's consistency has kept him in contention for the championship. Team principal Toto Wolff has praised him as one of the top drivers in F1, describing him as a 'warrior'."
+	},
+	{
+	    	"name":"Valtteri Bottas",
+	    	"seasons_mercedes":"2013-2016",
+	    	"seasons":"2013-2024",
+	    	"wins_mercedes":"0",
+	   	"wins":"10",
+	    	"poles_mercedes":"0",
+	    	"poles":"20",
+	    	"races_mercedes":"78",
+		"races":"247",
+		"pic":"bottas.jpg",
+		"description":"Valtteri Bottas is a Finnish racing driver known for his smooth driving style and consistency.",
+ 		"career":"He began his Formula 1 career in 2013 with Williams, achieving his first podium finish in 2014. In 2017, Bottas joined Mercedes-AMG Petronas Formula One Team, securing 10 race wins, 20 pole positions, and 58 podiums over five seasons. He finished as runner-up in the Drivers' Championship twice, in 2019 and 2020, behind teammate Lewis Hamilton. In 2022, Bottas moved to Alfa Romeo, which rebranded as Stake F1 Team Kick Sauber in 2024. The 2024 season proved challenging, with Bottas failing to score points for the first time in his F1 career. Following this, he departed Sauber and returned to Mercedes as a reserve driver for the 2025 season, supporting main drivers George Russell and rookie Kimi Antonelli."
 	}
 ]
