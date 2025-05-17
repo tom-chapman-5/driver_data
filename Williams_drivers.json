@@ -26,5 +26,19 @@
 		"pic":"mansell.jpg",
 		"description":"Nigel Mansell was celebrated for his tenacity and aggressive driving style and he won the WDC in 1992 for Williams.",
  		"career":"Mansell secured 31 Grand Prix victories and clinched the 1992 World Championship with Williams, where he dominated the season with nine wins and five pole positions. Notably, he remains the last driver to win an F1 race over the age of 40, achieving this feat at the 1994 Australian Grand Prix in Adelaide, his 31st and final career victory. Beyond F1, Mansell ventured into American open-wheel racing, winning the 1993 IndyCar World Series with Newman/Haas Racing, making him the only driver to hold both the Formula 1 World Championship and the American open-wheel National Championship simultaneously. His legacy endures as one of Britain's most accomplished and charismatic motorsport figures."
+	},
+	{
+	    	"name":"Felipe Massa",
+	    	"seasons_williams":"2014-2017",
+	    	"seasons":"2002, 2004-2017",
+	    	"wins_williams":"0",
+	   	"wins":"11",
+	    	"poles_williams":"0",
+	    	"poles":"16",
+	    	"races_williams":"65",
+		"races":"272",
+		"pic":"massa.jpg",
+		"description":"Felipe Massa raced from 2002 to 2017, primarily known for his time with Ferrari (2006–2013).",
+ 		"career":"After debuting with Sauber, he joined Ferrari and quickly became a race winner, serving as both a strong teammate to Michael Schumacher and later a title contender. His closest brush with the championship came in 2008, when he famously lost the title to Lewis Hamilton by just one point in a dramatic final-lap twist at the Brazilian Grand Prix. Massa won 11 races, scored 41 podiums, and earned a reputation for his speed, technical skill, and resilience—especially after a life-threatening head injury in 2009. He finished his F1 career with Williams before retiring in 2017, leaving behind a legacy as one of Brazil’s most respected drivers."
 	}
 ]
