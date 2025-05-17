@@ -138,5 +138,33 @@
 		"pic":"keke.jpg",
 		"description":"Keke Rosberg is a Finnish former Formula 1 driver who secured the 1982 World Drivers' Championship with Williams, becoming the first Finnish F1 World Champion.",
  		"career":"Over his 128-race career, Rosberg achieved five Grand Prix victories, including wins at the 1982 Swiss Grand Prix, the 1983 Monaco Grand Prix, the 1984 Dallas Grand Prix, and the 1985 Detroit and Australian Grands Prix. His 1982 championship was notable for its competitiveness, with 11 different race winners that season. Rosberg's driving style was characterized by aggression and adaptability. After retiring from Formula 1 in 1986, he remained active in motorsport, transitioning into rallycross and other racing disciplines. He also became a commentator and an influential figure in the motorsport world, offering valuable insights into the sport’s technicalities and the art of racing. Rosberg's legacy extended to his son, Nico Rosberg, who followed in his father's footsteps and won the Formula 1 World Championship in 2016. Nico's achievement further solidified the Rosberg family's iconic status in the motorsport world, making them one of the most famous father-son pairings in the history of Formula 1."
+	},
+	{
+	    	"name":"Nelson Piquet",
+	    	"seasons_williams":"1986-1987",
+	    	"seasons":"1978-1991",
+	    	"wins_williams":"6",
+	   	"wins":"23",
+	    	"poles_williams":"5",
+	    	"poles":"24",
+	    	"races_williams":"31",
+		"races":"204",
+		"pic":"Piquet.jpg",
+		"description":"Nelson Piquet is a former Formula 1 driver who won three World Drivers' Championships (1981, 1983, and 1987) during his 14-season career.",
+ 		"career":"He began his F1 journey with Ensign in 1978 and later drove for Brabham, where he secured his first title in 1981. Piquet clinched his second championship in 1983 with Brabham, and his third in 1987 with Williams, famously engaging in a tense intra-team rivalry with Nigel Mansell. Known for his tactical acumen and adaptability, he achieved 23 Grand Prix victories and 60 podium finishes. After retiring from F1 in 1991, Piquet briefly pursued IndyCar racing and sports car events. He has since been involved in various business ventures in Brazil. Piquet is also the father of Kelly Piquet, a prominent figure in motorsport, and Nelson Piquet Jr., who competed in F1 and won the Formula E championship in the 2014–15 season."
+	},
+	{
+	    	"name":"Jacques Villeneuve",
+	    	"seasons_williams":"1996-1998",
+	    	"seasons":"1996-2006",
+	    	"wins_williams":"11",
+	   	"wins":"11",
+	    	"poles_williams":"13",
+	    	"poles":"13",
+	    	"races_williams":"49",
+		"races":"163",
+		"pic":"villeneuve.jpg",
+		"description":"Jacques Villeneuve is a former Formula 1 driver who won the 1997 World Drivers' Championship with Williams, becoming the first Canadian to achieve this feat.",
+ 		"career":"He began his F1 career in 1996, finishing second in the championship in his rookie season. Villeneuve secured 11 Grand Prix victories over his career, with his final win at the 1997 Luxembourg Grand Prix. After a challenging 1998 season, he joined British American Racing (BAR), where he raced until 2003. He then drove for Renault, Sauber, and BMW Sauber before retiring from F1 in 2006. Post-F1, Villeneuve competed in various motorsport disciplines, including NASCAR and sports car racing, and achieved a second-place finish at the 2008 Le Mans 24 Hours. He also participated in the 2022 Daytona 500, joining an exclusive group of drivers who have competed in the Indy 500, Le Mans 24 Hours, and Formula 1. Villeneuve remains active in motorsport as a commentator and ambassador for Williams Racing."
 	}
 ]
