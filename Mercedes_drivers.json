@@ -54,5 +54,19 @@
 		"pic":"bottas.jpg",
 		"description":"Valtteri Bottas is a Finnish racing driver known for his smooth driving style and consistency.",
  		"career":"He began his Formula 1 career in 2013 with Williams, achieving his first podium finish in 2014. In 2017, Bottas joined Mercedes-AMG Petronas Formula One Team, securing 10 race wins, 20 pole positions, and 58 podiums over five seasons. He finished as runner-up in the Drivers' Championship twice, in 2019 and 2020, behind teammate Lewis Hamilton. In 2022, Bottas moved to Alfa Romeo, which rebranded as Stake F1 Team Kick Sauber in 2024. The 2024 season proved challenging, with Bottas failing to score points for the first time in his F1 career. Following this, he departed Sauber and returned to Mercedes as a reserve driver for the 2025 season, supporting main drivers George Russell and rookie Kimi Antonelli."
+	},
+	{
+	    	"name":"Juan Manuel Fangio",
+	    	"seasons_mercedes":"1954-1955",
+	    	"seasons":"1950-1951, 1953-1958",
+	    	"wins_mercedes":"8",
+	   	"wins":"24",
+	    	"poles_mercedes":"7",
+	    	"poles":"29",
+	    	"races_mercedes":"12",
+		"races":"52",
+		"pic":"fangio.jpg",
+		"description":"Juan Manuel Fangio often hailed as one of the greatest drivers in Formula 1 history and competed in F1 from 1950 to 1958  and secured five WDC.",
+ 		"career":"He won the championships in 1951, 1954, 1955, 1956, 1957 driving for Alfa Romeo, Mercedes-Benz, Ferrari, and Maserati. He achieved this feat in just seven full seasons, missing one due to a near-fatal accident. His adaptability was unparalleled, winning titles with four different teams. One of his most iconic performances was at the 1957 German Grand Prix at the Nürburgring, where he overcame a 48-second deficit to clinch victory, securing his fifth and final title in dramatic fashion. After retiring from racing in 1958, Fangio remained an ambassador for the sport and later became a representative for Mercedes-Benz in Argentina. He passed away on July 17, 1995, leaving behind a legacy that continues to inspire generations of drivers."
 	}
 ]
