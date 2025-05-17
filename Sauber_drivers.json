@@ -12,5 +12,19 @@
 		"pic":"bottas.jpg",
 		"description":"Valtteri Bottas is a Finnish racing driver known for his smooth driving style and consistency.",
  		"career":"He began his Formula 1 career in 2013 with Williams, achieving his first podium finish in 2014. In 2017, Bottas joined Mercedes-AMG Petronas Formula One Team, securing 10 race wins, 20 pole positions, and 58 podiums over five seasons. He finished as runner-up in the Drivers' Championship twice, in 2019 and 2020, behind teammate Lewis Hamilton. In 2022, Bottas moved to Alfa Romeo, which rebranded as Stake F1 Team Kick Sauber in 2024. The 2024 season proved challenging, with Bottas failing to score points for the first time in his F1 career. Following this, he departed Sauber and returned to Mercedes as a reserve driver for the 2025 season, supporting main drivers George Russell and rookie Kimi Antonelli."
+	},
+	{
+	    	"name":"Kimi Raikkonen",
+	    	"seasons_sauber":"2001, 2019-2021",
+	    	"seasons":"2014-2018",
+	    	"wins_sauber":"0",
+	   	"wins":"21",
+	    	"poles_sauber":"0",
+	    	"poles":"18",
+	    	"races_sauber":"77",
+		"races":"315",
+		"pic":"kimi.jpg",
+		"description":"Kimi Raikkonen was champion in 2007 and has had one of the longest Formula 1 careers spanning 2 decades.",
+ 		"career":"He began his F1 career in 2001 with Sauber, quickly moving to McLaren, where he secured his first Grand Prix victory in 2003. In 2007, Räikkönen joined Ferrari and clinched the World Championship in a dramatic final race in Brazil, edging out Lewis Hamilton and Fernando Alonso by just one point. After a brief hiatus from F1 in 2010–2011, he returned with Lotus, achieving notable success, including a memorable victory at the 2013 Australian Grand Prix. Räikkönen concluded his F1 career with Alfa Romeo Racing, retiring after the 2021 season with a total of 21 Grand Prix wins and 103 podiums. His legacy is marked by his no-nonsense demeanor, exceptional driving talent, and a career spanning two decades at the pinnacle of motorsport."
 	}
 ]
