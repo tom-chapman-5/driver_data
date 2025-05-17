@@ -15,16 +15,44 @@
 	},
 	{
 	    	"name":"Max Verstappen",
-	    	"seasons_redbull":"2016-present",
+	    	"seasons_vcarb":"2016-present",
 	    	"seasons":"2015-2016",
-	    	"wins_redbull":"64",
+	    	"wins_vcarb":"64",
 	   	"wins":"64",
-	    	"poles_redbull":"43",
+	    	"poles_vcarb":"43",
 	    	"poles":"43",
-	    	"races_redbull":"191",
+	    	"races_vcarb":"191",
 		"races":"215",
 		"pic":"verstappen.jpg",
 		"description":"Max Verstappen is one of the best drivers in history and has won 4 WDC with Red Bull and has pulled off some incredible drives throughout his career that have secured him as one of the greats.",
  		"career":"Verstappen made his Formula 1 debut in 2015 with Toro Rosso when he was 17 years old and was moved to the main team after 4 races in 2016 to be teamate to Daniel Riccardo. At his first race with Red Bull he won the race and became the youngest driver to win a race at 18 yeas old. In 2018 he beat Riccardo in the championship and caused him to belive that he wouldn't have a future at Red Bull with Verstappen also there. 2019 began Verstappen's dominance in the team and had many teamates that couldn't drive near his level. He claimed his first title in 2021 after a fierce battle between himself and Lewis Hamilton that came down to a last lap overtake by Verstappen. Many Hamilton fans say he deserved the title as the race director made up rules under safty car that lead to the last lap of racing but officially it was Verstappen that won. He had a fight with Leclerc in 2022 but still won fairly comfortably but the next year he dominated. Out of the 22 races he won 19 of them which is more that any driver in a single season before. 2024 saw Lando Norris have a go at the title but Verstappen still claimed it in the end with little struggle. This year has been more dificult with the Red Bull car having problems but he has still put in some good perfomances and is still in the fight for the title."
+	},
+	{
+	    	"name":"Pierre Gasly",
+	    	"seasons_vcarb":"2017-2018, 2019-2022",
+	    	"seasons":"2017-present",
+	    	"wins_vcarb":"1",
+	   	"wins":"1",
+	    	"poles_vcarb":"0",
+	    	"poles":"0",
+	    	"races_vcarb":"111",
+		"races":"161",
+		"pic":"pierre.jpg",
+		"description":"Pierre Gasly is a French Formula 1 driver currently racing for the Alpine team, having joined them in 2023 after a successful tenure with AlphaTauri.",
+ 		"career":"Gasly began karting at age six and progressed through various junior single-seater categories, including Formula Renault Eurocup, GP2, and Super Formula, securing championships and vice-championships along the way. He made his F1 debut with Toro Rosso (now AlphaTauri) in 2017 and achieved his first Grand Prix victory at the 2020 Italian Grand Prix. In 2023, Gasly joined Alpine, partnering with fellow Frenchman Esteban Ocon. Throughout the 2023 season, Gasly demonstrated consistent performance, finishing 11th in the Drivers' Championship with 62 points and securing a podium finish at the Dutch Grand Prix. In June 2024, he extended his contract with Alpine until at least the end of 2026, now alongside rookie Jack Doohan following Ocon's departure. Off the track, Gasly has diversified his interests, becoming a co-owner of French football club FC Versailles, reflecting his passion for sports beyond motorsport."
+	},
+	{
+	    	"name":"Carlos Sainz",
+	    	"seasons_vcarb":"2015-2017",
+	    	"seasons":"2015-present",
+	    	"wins_vcarb":"0",
+	   	"wins":"4",
+	    	"poles_vcarb":"0",
+	    	"poles":"6",
+	    	"races_vcarb":"56",
+		"races":"216",
+		"pic":"carlos.jpg",
+		"description":"Carlos Sainz Jr. is a Formula 1 driver currently racing for Williams. He is the son of two-time World Rally Champion Carlos Sainz Sr.",
+ 		"career":"Sainz Jr. began his F1 career in 2015 with Toro Rosso, now known as AlphaTauri, and has since driven for Renault, McLaren, and Ferrari. Notably, he secured his first Grand Prix victory at the 2022 British Grand Prix and added wins at the 2023 Singapore Grand Prix, the 2024 Australian Grand Prix, and the 2024 Mexico City Grand Prix. In 2025, he joined Williams, aiming to contribute to the team's revitalization under the leadership of James Vowles."
 	}
 ]
