@@ -26,5 +26,61 @@
 		"pic":"verstappen.jpg",
 		"description":"Max Verstappen is one of the best drivers in history and has won 4 WDC with Red Bull and has pulled off some incredible drives throughout his career that have secured him as one of the greats.",
  		"career":"Verstappen made his Formula 1 debut in 2015 with Toro Rosso when he was 17 years old and was moved to the main team after 4 races in 2016 to be teamate to Daniel Riccardo. At his first race with Red Bull he won the race and became the youngest driver to win a race at 18 yeas old. In 2018 he beat Riccardo in the championship and caused him to belive that he wouldn't have a future at Red Bull with Verstappen also there. 2019 began Verstappen's dominance in the team and had many teamates that couldn't drive near his level. He claimed his first title in 2021 after a fierce battle between himself and Lewis Hamilton that came down to a last lap overtake by Verstappen. Many Hamilton fans say he deserved the title as the race director made up rules under safty car that lead to the last lap of racing but officially it was Verstappen that won. He had a fight with Leclerc in 2022 but still won fairly comfortably but the next year he dominated. Out of the 22 races he won 19 of them which is more that any driver in a single season before. 2024 saw Lando Norris have a go at the title but Verstappen still claimed it in the end with little struggle. This year has been more dificult with the Red Bull car having problems but he has still put in some good perfomances and is still in the fight for the title."
+	},
+	{
+	    	"name":"David Coulthard",
+	    	"seasons_redbull":"2005-2008",
+	    	"seasons":"1994-2008",
+	    	"wins_redbull":"0",
+	   	"wins":"13",
+	    	"poles_redbull":"0",
+	    	"poles":"12",
+	    	"races_redbull":"72",
+		"races":"247",
+		"pic":"dc.jpg",
+		"description":"David Coulthard is a retired Formula 1 driver renowned for his smooth driving style and consistent performances.",
+ 		"career":"He began his F1 career in 1994 with Williams, securing his first Grand Prix victory in 1995 at the Portuguese Grand Prix. In 1996, Coulthard joined McLaren, where he achieved 12 of his 13 career wins and finished as runner-up in the 2001 Drivers' Championship. After a stint with Red Bull Racing from 2005 to 2008, he retired from F1 with 62 podiums and 535 points. Post-retirement, Coulthard transitioned to broadcasting, serving as a commentator for BBC and Channel 4's F1 coverage. He also co-founded Whisper Films, a media production company, and has been involved in various business ventures. In 2019, he was elected President of the British Racing Drivers' Club, which owns and operates Silverstone Circuit. Additionally, Coulthard co-founded the More Than Equal initiative in 2022, aiming to create opportunities for women to race in Formula 1 during the modern era."
+	},
+	{
+	    	"name":"Mark Webber",
+	    	"seasons_redbull":"2007-2013",
+	    	"seasons":"2002-2013",
+	    	"wins_redbull":"9",
+	   	"wins":"9",
+	    	"poles_redbull":"13",
+	    	"poles":"13",
+	    	"races_redbull":"129",
+		"races":"217",
+		"pic":"webber.jpg",
+		"description":"Mark Webber is a retired Formula 1 driver renowned for his aggressive driving style and resilience.",
+ 		"career":"He began his F1 career in 2002 with Minardi, scoring the team's first points in three years. Subsequently, he raced for Jaguar, Williams, and Red Bull Racing, where he achieved nine Grand Prix victories, including wins at the British and Monaco Grands Prix. Webber finished third in the Drivers' Championship standings in 2010, 2011, and 2013, contributing to Red Bull Racing's four consecutive Constructors' Championships. After retiring from F1 in 2013, he transitioned to endurance racing with Porsche in the World Endurance Championship, securing the 2015 World Drivers' Championship alongside teammates Brendon Hartley and Timo Bernhard. Webber retired from motorsport in 2016 and has since become a television pundit and driver manager. He was inducted into the Australian Motor Sport Hall of Fame and the FIA Hall of Fame and was appointed Officer of the Order of Australia in 2017."
+	},
+	{
+	    	"name":"Daniel Ricciardo",
+	    	"seasons_redbull":"2014-2018",
+	    	"seasons":"2011-2024",
+	    	"wins_redbull":"7",
+	   	"wins":"8",
+	    	"poles_redbull":"3",
+	    	"poles":"3",
+	    	"races_redbull":"100",
+		"races":"258",
+		"pic":"riccardo.jpg",
+		"description":"Daniel Ricciardo is a former Formula 1 driver known for his charismatic personality and aggressive driving style.",
+ 		"career":"He made his F1 debut in 2011 with HRT and later raced for Toro Rosso, Red Bull Racing, Renault, McLaren, and AlphaTauri. Over his 14-season career, Ricciardo secured 8 Grand Prix victories, 3 pole positions, and 32 podium finishes. Notably, he achieved his first win at the 2014 Canadian Grand Prix and his last at the 2021 Italian Grand Prix. Ricciardo's career was marked by his spirited performances and memorable moments, such as his iconic 'shoey' celebration. However, his time at McLaren was challenging, leading to a departure at the end of the 2022 season. He returned to Red Bull as a reserve driver in 2023 and subsequently replaced Nyck de Vries at AlphaTauri for the remainder of the season . In 2024, Ricciardo's performance was under scrutiny, and after the Singapore Grand Prix, he was replaced by Liam Lawson for the remainder of the season, marking the end of his F1 career."
+	},
+	{
+	    	"name":"Sergio Perez",
+	    	"seasons_redbull":"2021-2024",
+	    	"seasons":"2011-2024",
+	    	"wins_redbull":"5",
+	   	"wins":"6",
+	    	"poles_redbull":"3",
+	    	"poles":"3",
+	    	"races_redbull":"91",
+		"races":"285",
+		"pic":"checo.jpg",
+		"description":"Sergio Pérez, known as 'Checo', is a Mexican racing driver who made his Formula 1 debut in 2011 with Sauber.",
+ 		"career":"Over the years, he has driven for teams including McLaren, Force India (later Racing Point), and Red Bull Racing. Pérez secured his first Grand Prix victory in 2020 at the Sakhir Grand Prix, becoming the first Mexican to win a Formula 1 race since 1970. In 2021, he joined Red Bull Racing, where he played a pivotal role in supporting teammate Max Verstappen's championship bid. Pérez's performances have been marked by resilience and strategic acumen, earning him a reputation as a consistent and valuable team player."
 	}
 ]
